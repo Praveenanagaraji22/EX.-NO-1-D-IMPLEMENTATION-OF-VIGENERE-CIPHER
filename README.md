@@ -21,7 +21,8 @@
   STEP-8: Repeat the above steps to generate the entire cipher text.
   
 ## PROGRAM:
-    #include <stdio.h>
+```
+  #include <stdio.h>
     #include <string.h>
     #include <ctype.h>
     #define MAX 100
@@ -79,13 +80,11 @@
 
     return 0;
     }
-
+```
 
 ## OUTPUT:
-Enter the plaintext: happybirthday
+![image](https://github.com/user-attachments/assets/aec74a3e-03ca-453c-bfaa-049939faadab)
 
-Enter the keyword: quiz
 
-Ciphertext: QUIZQUIZQUIZQ
 ## RESULT:
   Thus the Vigenere Cipher substitution technique had been implemented successfully.
